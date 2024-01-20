@@ -1,0 +1,13 @@
+C:\Users\7шго\source\repos\Lab4\Lab4-2\bin\Debug\Lab4-2.exe.config
+C:\Users\7шго\source\repos\Lab4\Lab4-2\bin\Debug\Lab4-2.exe
+C:\Users\7шго\source\repos\Lab4\Lab4-2\bin\Debug\Lab4-2.pdb
+C:\Users\7шго\source\repos\Lab4\Lab4-2\obj\Debug\Lab4-2.csproj.CoreCompileInputs.cache
+C:\Users\7шго\source\repos\Lab4\Lab4-2\obj\Debug\Lab4-2.exe
+C:\Users\7шго\source\repos\Lab4\Lab4-2\obj\Debug\Lab4-2.pdb
+D:\ИТМО Основы программирования C#\Lab4\Lab4-2\bin\Debug\Lab4-2.exe.config
+D:\ИТМО Основы программирования C#\Lab4\Lab4-2\bin\Debug\Lab4-2.exe
+D:\ИТМО Основы программирования C#\Lab4\Lab4-2\bin\Debug\Lab4-2.pdb
+D:\ИТМО Основы программирования C#\Lab4\Lab4-2\obj\Debug\Lab4-2.csprojAssemblyReference.cache
+D:\ИТМО Основы программирования C#\Lab4\Lab4-2\obj\Debug\Lab4-2.csproj.CoreCompileInputs.cache
+D:\ИТМО Основы программирования C#\Lab4\Lab4-2\obj\Debug\Lab4-2.exe
+D:\ИТМО Основы программирования C#\Lab4\Lab4-2\obj\Debug\Lab4-2.pdb
